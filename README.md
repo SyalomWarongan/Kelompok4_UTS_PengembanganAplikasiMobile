@@ -13,6 +13,4 @@ Anggota Kelompok 4 :
 
 API yang digunakan : https://newsapi.org/
 
-Link GDrive APK : https://drive.google.com/drive/folders/1CcGglsTFrfvqtUDnrTvjQ-asJIA4RHX6?usp=sharing
-
-Link Video Demo Kelompok : 
+Link Video dan APK : https://drive.google.com/drive/folders/1CcGglsTFrfvqtUDnrTvjQ-asJIA4RHX6?usp=sharing
